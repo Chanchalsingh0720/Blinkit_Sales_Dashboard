@@ -4,8 +4,6 @@
 
 This project provides a comprehensive dashboard for analyzing the sales performance of **Blinkit**, a last-minute grocery delivery app. The dashboard offers insights into various metrics such as total sales, average sale value, category-wise performance, outlet performance, and store growth over time.
 
-![Dashboard Preview](path_to_image)  
-*(Include a screenshot of the dashboard)*
 
 ---
 
@@ -66,8 +64,3 @@ This project provides a comprehensive dashboard for analyzing the sales performa
 
 ---
 
-### 🛠️ How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your_username/blinkit-sales-dashboard.git
