@@ -4,6 +4,8 @@
 
 This project provides a comprehensive dashboard for analyzing the sales performance of **Blinkit**, a last-minute grocery delivery app. The dashboard offers insights into various metrics such as total sales, average sale value, category-wise performance, outlet performance, and store growth over time.
 
+![Blinkit Dashboard](https://github.com/user-attachments/assets/f3a26d16-5698-4d61-a6c1-694acf28ba5d)
+
 
 ---
 
