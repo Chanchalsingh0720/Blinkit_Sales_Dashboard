@@ -44,7 +44,8 @@ This project provides a comprehensive dashboard for analyzing the sales performa
 
 - **🏪 Outlet Size Performance**:
   - **Medium-sized outlets** contribute the most to total sales with a whopping **42.27%** share (~$507.9K).
-  - **Small-sized outlets** make up **37.01%** of total sales (~$444.79K), while **high-sized outlets** account for **20.72%** (~$248.99K).
+  - **Small-sized outlets** make up **37.01%** of total sales (~$444.79K).
+  - **High-sized outlets** account for **20.72%** of total sales (~$248.99K).
 
 - **📍 Location Type Analysis**:
   - **Tier 3 locations** lead in total sales with **$472K**, indicating that these regions play a key role in overall revenue.
