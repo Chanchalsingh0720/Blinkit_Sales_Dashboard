@@ -4,6 +4,9 @@
 
 This project provides a comprehensive dashboard for analyzing the sales performance of **Blinkit**, a last-minute grocery delivery app. The dashboard offers insights into various metrics such as total sales, average sale value, category-wise performance, outlet performance, and store growth over time.
 
+![Dashboard Preview](path_to_image)  
+*(Include a screenshot of the dashboard)*
+
 ---
 
 ### ✨ Key Features
@@ -19,8 +22,9 @@ This project provides a comprehensive dashboard for analyzing the sales performa
 
 ### 💻 Technologies Used
 
-- **Excel**: Data cleaning and preprocessing.
 - **Power BI**: Used for creating the dashboard, visualizations, and analyzing sales data.
+- **Data Sources**: Sales and store data, categorized by product type, outlet size, and location.
+- **Python/Excel** *(if applicable)*: Data cleaning and preprocessing.
 
 ---
 
@@ -61,3 +65,9 @@ This project provides a comprehensive dashboard for analyzing the sales performa
   - Supermarket chains, particularly **Supermarket Type 1**, are the primary revenue drivers with the highest sales contributions.
 
 ---
+
+### 🛠️ How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your_username/blinkit-sales-dashboard.git
